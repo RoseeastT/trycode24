@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://bigbos4d.swiftfest.io/sitemap.xml
+Sitemap : http://bigbos4d.edu.qua.st/sitemap.xml
